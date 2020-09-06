@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\jiwon\source\repos\list_snake\list_snake\main.cpp(63): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jiwon\source\repos\list_snake\list_snake\main.cpp(127): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\jiwon\source\repos\list_snake\list_snake\main.cpp(159): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jiwon\source\repos\list_snake\list_snake\main.cpp(529): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\jiwon\source\repos\list_snake\list_snake\main.cpp(530): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\jiwon\source\repos\list_snake\list_snake\main.cpp(539): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(459): note: 'kbhit' 선언을 참조하십시오.
+  LIST_SNAKE.vcxproj -> C:\Users\JIWON\source\repos\LIST_SNAKE\Debug\LIST_SNAKE.exe
